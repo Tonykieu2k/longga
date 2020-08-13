@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\bin\Debug\QLHTSV.exe.config
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\bin\Debug\QLHTSV.exe
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\bin\Debug\QLHTSV.pdb
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.Form1.resources
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.Maychu.resources
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.Properties.Resources.resources
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.exe
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.pdb
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.Maychuchinh.resources
+C:\Users\DELL\source\repos\QLHTSV\QLHTSV\obj\Debug\QLHTSV.Dangnhapnguoidung.resources
